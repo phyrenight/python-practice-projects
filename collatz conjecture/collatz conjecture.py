@@ -8,4 +8,4 @@ while userNumber != 1:
     else:
         userNumber = (userNumber * 3) + 1
         steps += 1
-print " To get %s it took %s steps " % (original, steps)
+print " To get %s to 1 it took %s steps " % (original, steps)
